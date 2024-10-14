@@ -2,6 +2,8 @@
 
 Note: Use 20.12.2 node model, In this project have two routes, User and product ,User route for user singup, login, get, etc and product route is get product array.
 <br>
+start command : npm start
+<br>
 Node server started on 8000 port.
 <br>
 Database: MongoDB, Connect your own mongodb database.
